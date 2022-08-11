@@ -4,7 +4,7 @@ import TextWords from "./TextWords";
 
 function Main() {
   return (
-    <main>
+    <main className="w-full">
       <TextWords />
       <Input />
     </main>
