@@ -4,7 +4,7 @@
 
 ## :sparkles: Live Demo
 
-[ismailkaraalioglu-typingspeedapp.netlify.app](ismailkaraalioglu-typingspeedapp.netlify.app)
+[https://ismailkaraalioglu-typingspeedapp.netlify.app/](https://ismailkaraalioglu-typingspeedapp.netlify.app/)
 
 ## :computer: Setup
 
